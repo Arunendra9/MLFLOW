@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arune/mlflow/mlruns/0/8c68aeedc7a54643a28c0932bcde21c9/artifacts
+end_time: 1688492778369
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c68aeedc7a54643a28c0932bcde21c9
+run_name: upset-ox-465
+run_uuid: 8c68aeedc7a54643a28c0932bcde21c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688492778127
+status: 3
+tags: []
+user_id: arune

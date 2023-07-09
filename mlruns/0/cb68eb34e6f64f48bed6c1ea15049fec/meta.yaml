@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arune/mlflow/mlruns/0/cb68eb34e6f64f48bed6c1ea15049fec/artifacts
+end_time: 1688712954680
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb68eb34e6f64f48bed6c1ea15049fec
+run_name: respected-ant-225
+run_uuid: cb68eb34e6f64f48bed6c1ea15049fec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688712954414
+status: 4
+tags: []
+user_id: arune
