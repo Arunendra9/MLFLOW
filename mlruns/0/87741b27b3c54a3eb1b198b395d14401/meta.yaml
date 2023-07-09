@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arune/mlflow/mlruns/0/87741b27b3c54a3eb1b198b395d14401/artifacts
+end_time: 1688897170042
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87741b27b3c54a3eb1b198b395d14401
+run_name: debonair-mink-852
+run_uuid: 87741b27b3c54a3eb1b198b395d14401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688897151713
+status: 3
+tags: []
+user_id: arune

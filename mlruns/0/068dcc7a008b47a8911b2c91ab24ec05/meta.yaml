@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arune/mlflow/mlruns/0/068dcc7a008b47a8911b2c91ab24ec05/artifacts
+end_time: 1688923690493
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 068dcc7a008b47a8911b2c91ab24ec05
+run_name: righteous-wasp-92
+run_uuid: 068dcc7a008b47a8911b2c91ab24ec05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688923685068
+status: 3
+tags: []
+user_id: arune

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arune/mlflow/mlruns/0/4914d6f03e9548d7ac6642627b86e59d/artifacts
+end_time: 1688923640971
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4914d6f03e9548d7ac6642627b86e59d
+run_name: suave-penguin-234
+run_uuid: 4914d6f03e9548d7ac6642627b86e59d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688923632702
+status: 3
+tags: []
+user_id: arune

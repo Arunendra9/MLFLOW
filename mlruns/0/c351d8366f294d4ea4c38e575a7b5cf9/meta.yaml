@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arune/mlflow/mlruns/0/c351d8366f294d4ea4c38e575a7b5cf9/artifacts
+end_time: 1688923931328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c351d8366f294d4ea4c38e575a7b5cf9
+run_name: whimsical-bat-537
+run_uuid: c351d8366f294d4ea4c38e575a7b5cf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688923924258
+status: 3
+tags: []
+user_id: arune

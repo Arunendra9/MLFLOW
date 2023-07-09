@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arune/mlflow/mlruns/0/a0ce19c1f7c04cdda99ea9644c1f6928/artifacts
+end_time: 1688923827565
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0ce19c1f7c04cdda99ea9644c1f6928
+run_name: wistful-calf-560
+run_uuid: a0ce19c1f7c04cdda99ea9644c1f6928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688923818980
+status: 3
+tags: []
+user_id: arune

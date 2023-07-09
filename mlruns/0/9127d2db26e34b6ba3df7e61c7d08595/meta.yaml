@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arune/mlflow/mlruns/0/9127d2db26e34b6ba3df7e61c7d08595/artifacts
+end_time: 1688923738963
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9127d2db26e34b6ba3df7e61c7d08595
+run_name: aged-crane-137
+run_uuid: 9127d2db26e34b6ba3df7e61c7d08595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688923731644
+status: 3
+tags: []
+user_id: arune

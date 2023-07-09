@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arune/mlflow/mlruns/0/9b25b30515f24613b8402dcb40fac8ad/artifacts
+end_time: 1688923724777
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b25b30515f24613b8402dcb40fac8ad
+run_name: casual-cow-805
+run_uuid: 9b25b30515f24613b8402dcb40fac8ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688923719949
+status: 3
+tags: []
+user_id: arune

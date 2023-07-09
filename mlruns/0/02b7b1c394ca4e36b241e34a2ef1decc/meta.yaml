@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arune/mlflow/mlruns/0/02b7b1c394ca4e36b241e34a2ef1decc/artifacts
+end_time: 1688923654509
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02b7b1c394ca4e36b241e34a2ef1decc
+run_name: vaunted-moose-973
+run_uuid: 02b7b1c394ca4e36b241e34a2ef1decc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688923647594
+status: 3
+tags: []
+user_id: arune

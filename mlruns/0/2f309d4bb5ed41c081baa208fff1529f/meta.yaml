@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arune/mlflow/mlruns/0/2f309d4bb5ed41c081baa208fff1529f/artifacts
+end_time: 1688923901738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f309d4bb5ed41c081baa208fff1529f
+run_name: angry-squirrel-81
+run_uuid: 2f309d4bb5ed41c081baa208fff1529f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688923894405
+status: 3
+tags: []
+user_id: arune

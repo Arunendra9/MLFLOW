@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arune/mlflow/mlruns/0/858bc94aaf27430fa9f90feb7c5ea231/artifacts
+end_time: 1688923667248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 858bc94aaf27430fa9f90feb7c5ea231
+run_name: stately-sloth-248
+run_uuid: 858bc94aaf27430fa9f90feb7c5ea231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688923661558
+status: 3
+tags: []
+user_id: arune

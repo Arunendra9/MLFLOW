@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arune/mlflow/mlruns/0/c1a85ddab3f04e80925e9f57246f62a0/artifacts
+end_time: 1688923616803
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1a85ddab3f04e80925e9f57246f62a0
+run_name: thundering-kit-147
+run_uuid: c1a85ddab3f04e80925e9f57246f62a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688923588251
+status: 3
+tags: []
+user_id: arune

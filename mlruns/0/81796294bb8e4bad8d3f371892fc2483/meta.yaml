@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arune/mlflow/mlruns/0/81796294bb8e4bad8d3f371892fc2483/artifacts
+end_time: 1688923871313
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81796294bb8e4bad8d3f371892fc2483
+run_name: hilarious-turtle-118
+run_uuid: 81796294bb8e4bad8d3f371892fc2483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688923863494
+status: 3
+tags: []
+user_id: arune

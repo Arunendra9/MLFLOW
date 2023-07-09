@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arune/mlflow/mlruns/0/df17b17ed1024853bfbc6e34cd0c12be/artifacts
+end_time: 1688923796048
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df17b17ed1024853bfbc6e34cd0c12be
+run_name: orderly-fawn-717
+run_uuid: df17b17ed1024853bfbc6e34cd0c12be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688923789563
+status: 3
+tags: []
+user_id: arune

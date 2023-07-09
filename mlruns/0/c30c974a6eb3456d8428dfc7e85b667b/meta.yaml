@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arune/mlflow/mlruns/0/c30c974a6eb3456d8428dfc7e85b667b/artifacts
+end_time: 1688923754030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c30c974a6eb3456d8428dfc7e85b667b
+run_name: bittersweet-croc-273
+run_uuid: c30c974a6eb3456d8428dfc7e85b667b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688923746059
+status: 3
+tags: []
+user_id: arune

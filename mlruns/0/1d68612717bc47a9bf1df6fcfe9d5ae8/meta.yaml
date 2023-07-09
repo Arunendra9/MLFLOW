@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arune/mlflow/mlruns/0/1d68612717bc47a9bf1df6fcfe9d5ae8/artifacts
+end_time: 1688917903213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d68612717bc47a9bf1df6fcfe9d5ae8
+run_name: respected-fly-480
+run_uuid: 1d68612717bc47a9bf1df6fcfe9d5ae8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688917894935
+status: 3
+tags: []
+user_id: arune

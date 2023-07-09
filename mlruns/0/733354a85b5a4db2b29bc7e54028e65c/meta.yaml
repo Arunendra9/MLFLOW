@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arune/mlflow/mlruns/0/733354a85b5a4db2b29bc7e54028e65c/artifacts
+end_time: 1688923857645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 733354a85b5a4db2b29bc7e54028e65c
+run_name: industrious-koi-29
+run_uuid: 733354a85b5a4db2b29bc7e54028e65c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688923850133
+status: 3
+tags: []
+user_id: arune
